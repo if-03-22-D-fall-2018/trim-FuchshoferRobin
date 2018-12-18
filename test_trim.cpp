@@ -16,6 +16,7 @@
 #include "trim.h"
 #include "test_trim.h"
 
+#define STRLEN 16
 /******************************************************************************
  * empty_substring: tests that trimming an empty string yields an empty
  * string.
